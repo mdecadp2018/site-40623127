@@ -18,6 +18,7 @@
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
+<v t="leo.20181101023416.1"><vh>@edit config\config</vh></v>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
 </v>
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
