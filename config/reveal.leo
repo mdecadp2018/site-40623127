@@ -22,9 +22,6 @@
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9"><vh>封面投影片</vh></v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
@@ -157,25 +154,6 @@ vertical: body pane on the botton</t>
 [簡報](https://mdecadp2018.github.io/site-40623127/reveal/index.html#/)
 
 [網誌](https://mdecadp2018.github.io/site-40623127/blog/index.html)
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -326,13 +304,14 @@ https://github.com/mdecourse/cadp2018/issues/5
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20180827201621.9">#2018CADP電腦輔助設計實習
+##40623127 投影片
 
+[網站](https://mdecadp2018.github.io/site-40623127/content/index.html)
 
+[簡報](https://mdecadp2018.github.io/site-40623127/reveal/index.html#/)
+
+[網誌](https://mdecadp2018.github.io/site-40623127/blog/index.html)
 						
 </t>
 <t tx="leo.20181109060841.1">&lt;section data-markdown&gt;
