@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -34,15 +34,18 @@
 <v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109060841.1"><vh>導入影片</vh>
+<v t="leo.20181109060841.1" a="E"><vh>導入影片</vh>
 <v t="leo.20181109060841.2"><vh>iframe 導入影片</vh></v>
 </v>
 <v t="leo.20181109060935.1" a="E"><vh>導入影片</vh>
 <v t="leo.20181109060935.2"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181109061724.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109061724.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
 </v>
@@ -203,7 +206,7 @@ https://github.com/mdecourse/cadp2018/issues/3
 基本要帶的用具 : 筆記本、隨身碟、耳機。
 
 第一週講解本學期上課流程，以及同學需完成各自的作業，期中考週(含)前八週為拍攝Onshape影片，管理自己的網站、投影片以及部落格。期中考後為分組專案，需找其他五人組成六人小組。
-```
+
 </t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -344,7 +347,7 @@ https://github.com/mdecourse/cadp2018/issues/7
 
 						
 </t>
-<t tx="leo.20181109060935.2">##Week 4
+<t tx="leo.20181109060935.2">## Week 4
 
 CADP2018  W4 :
 
@@ -353,5 +356,21 @@ https://github.com/mdecourse/cadp2018/issues/9
 Onshape課程說明。
 
 </t>
+<t tx="leo.20181109061724.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109061724.2"># 上課筆記
+
+https://mdecadp2018.github.io/site-40623127/images/44512359_384860928720531_1453638974185668608_n.jpg
+
+https://mdecadp2018.github.io/site-40623127/images/44668833_279809389203573_2038149002007937024_n.jpg
+
+https://mdecadp2018.github.io/site-40623127/images/44540171_333809013836926_4241134008408211456_n.jpg</t>
 </tnodes>
 </leo_file>
