@@ -21,14 +21,13 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-</v>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh></v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180827201621.16"><vh>W1</vh>
@@ -239,7 +238,9 @@ https://github.com/mdecourse/cadp2018/issues/5
 
 
 
-開始著手繪製Onshape，將用ShareX錄製之影片放置於個人網站，並將心得放置於投影片或部落格中。</t>
+開始著手繪製Onshape，將用ShareX錄製之影片放置於個人網站，並將心得放置於投影片或部落格中。
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -385,7 +386,9 @@ https://mdecadp2018.github.io/site-40623127/images/44512359_384860928720531_1453
 
 https://mdecadp2018.github.io/site-40623127/images/44668833_279809389203573_2038149002007937024_n.jpg
 
-https://mdecadp2018.github.io/site-40623127/images/44540171_333809013836926_4241134008408211456_n.jpg</t>
+https://mdecadp2018.github.io/site-40623127/images/44540171_333809013836926_4241134008408211456_n.jpg
+
+</t>
 <t tx="leo.20181109062449.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -447,6 +450,8 @@ https://github.com/mdecourse/cadp2018/issues/11
 <t tx="leo.20181109062458.2">## Week 8
 CADP2018  W8:
 
-https://github.com/mdecourse/cadp2018/issues/12</t>
+https://github.com/mdecourse/cadp2018/issues/12
+
+</t>
 </tnodes>
 </leo_file>
