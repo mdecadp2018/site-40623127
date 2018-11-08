@@ -42,13 +42,13 @@
 <v t="leo.20181109062449.1"><vh>W5</vh>
 <v t="leo.20181109062449.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062452.1"><vh>W6</vh>
+<v t="leo.20181109062452.1" a="E"><vh>W6</vh>
 <v t="leo.20181109062452.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062454.1"><vh>W7</vh>
+<v t="leo.20181109062454.1" a="E"><vh>W7</vh>
 <v t="leo.20181109062454.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062458.1"><vh>W8</vh>
+<v t="leo.20181109062458.1" a="E"><vh>W8</vh>
 <v t="leo.20181109062458.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -400,7 +400,8 @@ Onshape課程說明。
 CADP2018  W6 :
 
 https://github.com/mdecourse/cadp2018/issues/10
-</t>
+
+說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結</t>
 <t tx="leo.20181109062454.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -416,7 +417,9 @@ CADP2018  W7:
 
 https://github.com/mdecourse/cadp2018/issues/11
 
-</t>
+說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料
+
+說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM</t>
 <t tx="leo.20181109062458.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -431,6 +434,6 @@ CADP2018  W8:
 
 https://github.com/mdecourse/cadp2018/issues/12
 
-</t>
+說明機電資整合設計專案流程所需的相關套件運用與技術.</t>
 </tnodes>
 </leo_file>
