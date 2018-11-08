@@ -67,7 +67,33 @@ $(function(){
 
 </ul>
 </confmenu></header>
-<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='目錄.html'>目錄</a><li><a href='每周上課內容.html'>每周上課內容</a><ul><li><a href='Week 1.html'>Week 1</a><li><a href='Week 2.html'>Week 2</a><li><a href='Week 3.html'>Week 3</a><li><a href='Week 4.html'>Week 4</a><li><a href='Week 5.html'>Week 5</a><li><a href='Week 6.html'>Week 6</a><li><a href='Week 7.html'>Week 7</a></li></ul><li><a href='OnShape操作影片.html'>OnShape操作影片</a><ul><li><a href='W1.html'>W1</a><li><a href='W2.html'>W2</a><li><a href='W3.html'>W3</a></li></ul><li><a href='上課筆記.html'>上課筆記</a></li></ul></nav><section>W3 << <a href='W3.html'>Previous</a> <br /><h1>上課筆記</h1>
-<p><img alt="" height="960" src="./../images/44512359_384860928720531_1453638974185668608_n.jpg" width="720"/></p>
-<p><img alt="" height="960" src="./../images/44668833_279809389203573_2038149002007937024_n.jpg" width="720"/></p>
-<p><img alt="" height="960" src="./../images/44540171_333809013836926_4241134008408211456_n.jpg" width="720"/></p><br />W3 << <a href='W3.html'>Previous</a> </section></div></body></html>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='目錄.html'>目錄</a><li><a href='Git指令.html'>Git指令</a><li><a href='OnShape操作影片.html'>OnShape操作影片</a><ul><li><a href='W1.html'>W1</a><li><a href='W2.html'>W2</a><li><a href='W3.html'>W3</a></li></ul></nav><section>目錄 << <a href='目錄.html'>Previous</a> <a href='OnShape操作影片.html'>Next</a> >> OnShape操作影片<br /><h1>Git指令</h1>
+<p>git 常用指令</p>
+<p>git add .</p>
+<p>新增所有改版內容</p>
+<p>git commit -m "提交訊息, 用來辨識版本"</p>
+<p>在近端提交改版內容</p>
+<p>git push</p>
+<p>將近端改版內容推送到遠端</p>
+<p>git pull</p>
+<p>拉下遠端新版本內容, 在 fossil scm 使用 fossil update</p>
+<p>git log</p>
+<p>查驗 git 提交推送紀錄</p>
+<p>git status</p>
+<p>查驗狀態</p>
+<p>git 新增提交推送的身分綁定</p>
+<p>以 scrum1@mde.tw 註冊帳號為 scrum-1 為例:</p>
+<p>git config --global user.name "scrum-1"</p>
+<p>git config --global user.email "scrum1@mde.tw"</p>
+<p>若網路直接連線過慢, 可以透過 proxy 執行 git</p>
+<p>git config --global http.proxy http://proxy.kmol.info:3128</p>
+<p>以上的 git config 會將設定存入 Y:/home/.gitconfig 檔案中</p>
+<p>刪除近端與遠端的 Git 分支.</p>
+<p>To delete a local branch</p>
+<p>git branch -D the_local_branch</p>
+<p>To remove a remote branch</p>
+<p>git push origin :the_remote_branch</p>
+<p>or</p>
+<p>git push origin --delete the_remote_branch</p>
+<p></p>
+<p>搬運 : <a href="http://mde.tw/cadp2018/content/Git.html">http://mde.tw/cadp2018/content/Git.html</a></p><br />目錄 << <a href='目錄.html'>Previous</a> <a href='OnShape操作影片.html'>Next</a> >> OnShape操作影片</section></div></body></html>
