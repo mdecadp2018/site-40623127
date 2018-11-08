@@ -21,9 +21,8 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh></v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -42,13 +41,13 @@
 <v t="leo.20181109062449.1"><vh>W5</vh>
 <v t="leo.20181109062449.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062452.1" a="E"><vh>W6</vh>
+<v t="leo.20181109062452.1"><vh>W6</vh>
 <v t="leo.20181109062452.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062454.1" a="E"><vh>W7</vh>
+<v t="leo.20181109062454.1"><vh>W7</vh>
 <v t="leo.20181109062454.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109062458.1" a="E"><vh>W8</vh>
+<v t="leo.20181109062458.1"><vh>W8</vh>
 <v t="leo.20181109062458.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -304,16 +303,6 @@ https://github.com/mdecourse/cadp2018/issues/5
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180827201621.9">#2018CADP電腦輔助設計實習
-##40623127 投影片
-
-[網站](https://mdecadp2018.github.io/site-40623127/content/index.html)
-
-[簡報](https://mdecadp2018.github.io/site-40623127/reveal/index.html#/)
-
-[網誌](https://mdecadp2018.github.io/site-40623127/blog/index.html)
-						
-</t>
 <t tx="leo.20181109060841.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -401,7 +390,9 @@ CADP2018  W6 :
 
 https://github.com/mdecourse/cadp2018/issues/10
 
-說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結</t>
+說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結
+
+</t>
 <t tx="leo.20181109062454.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -419,7 +410,9 @@ https://github.com/mdecourse/cadp2018/issues/11
 
 說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料
 
-說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM</t>
+說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM
+
+</t>
 <t tx="leo.20181109062458.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -434,6 +427,8 @@ CADP2018  W8:
 
 https://github.com/mdecourse/cadp2018/issues/12
 
-說明機電資整合設計專案流程所需的相關套件運用與技術.</t>
+說明機電資整合設計專案流程所需的相關套件運用與技術.
+
+</t>
 </tnodes>
 </leo_file>
