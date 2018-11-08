@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -36,6 +36,12 @@
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181109060841.1"><vh>導入影片</vh>
+<v t="leo.20181109060841.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181109060935.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181109060935.2"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
 </v>
@@ -171,12 +177,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
+<t tx="leo.20180827201621.15"># 每周上課內容
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
 
-$$I = \int \rho R^{2} dV$$
 </t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -189,32 +192,17 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20180827201621.17">## Week 1
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
+CADP2018  W1 :
+
+https://github.com/mdecourse/cadp2018/issues/3
+
+
+
+基本要帶的用具 : 筆記本、隨身碟、耳機。
+
+第一週講解本學期上課流程，以及同學需完成各自的作業，期中考週(含)前八週為拍攝Onshape影片，管理自己的網站、投影片以及部落格。期中考後為分組專案，需找其他五人組成六人小組。
 ```
 </t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
@@ -226,12 +214,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
+<t tx="leo.20180827201621.19">## Week 2
 
-### 導入影片 template
+CADP2018  W2 :
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+https://github.com/mdecourse/cadp2018/issues/5
+
+
+
+開始著手繪製Onshape，將用ShareX錄製之影片放置於個人網站，並將心得放置於投影片或部落格中。</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -325,6 +316,42 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181109060841.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109060841.2">## Week 3
+
+CADP2018  W3 :
+
+https://github.com/mdecourse/cadp2018/issues/7
+
+檢查學習進度，是否有確實完成每周進度以及了解Git 的基本操作。
+
+</t>
+<t tx="leo.20181109060935.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109060935.2">##Week 4
+
+CADP2018  W4 :
+
+https://github.com/mdecourse/cadp2018/issues/9
+
+Onshape課程說明。
+
 </t>
 </tnodes>
 </leo_file>
