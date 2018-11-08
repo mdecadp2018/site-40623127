@@ -31,20 +31,32 @@
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>W1</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>W2</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109060841.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181109060841.1"><vh>W3</vh>
 <v t="leo.20181109060841.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109060935.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181109060935.1"><vh>W4</vh>
 <v t="leo.20181109060935.2"><vh>iframe 導入影片</vh></v>
 </v>
+<v t="leo.20181109062449.1"><vh>W5</vh>
+<v t="leo.20181109062449.2"><vh>iframe 導入影片</vh></v>
 </v>
-<v t="leo.20181109061724.1" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109062452.1"><vh>W6</vh>
+<v t="leo.20181109062452.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181109062454.1"><vh>W7</vh>
+<v t="leo.20181109062454.2"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20181109062458.1"><vh>W8</vh>
+<v t="leo.20181109062458.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20181109061724.1"><vh>快捷鍵</vh>
 <v t="leo.20181109061724.2"><vh>投影片快捷鍵</vh></v>
 </v>
 </v>
@@ -133,17 +145,19 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018電腦輔助設計實習
 
 ### 虎科大機械設計工程系
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+40623127 投影片
 
-[2018 Fall 分組網誌](./../blog/index.html)
+2018 Fall 計算機程式與電腦輔助設計實習課程
 
+[網站](https://mdecadp2018.github.io/site-40623127/content/index.html)
 
+[簡報](https://mdecadp2018.github.io/site-40623127/reveal/index.html#/)
+
+[網誌](https://mdecadp2018.github.io/site-40623127/blog/index.html)
 </t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -372,5 +386,67 @@ https://mdecadp2018.github.io/site-40623127/images/44512359_384860928720531_1453
 https://mdecadp2018.github.io/site-40623127/images/44668833_279809389203573_2038149002007937024_n.jpg
 
 https://mdecadp2018.github.io/site-40623127/images/44540171_333809013836926_4241134008408211456_n.jpg</t>
+<t tx="leo.20181109062449.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109062449.2">## Week 4
+
+CADP2018  W4 :
+
+https://github.com/mdecourse/cadp2018/issues/9
+
+Onshape課程說明。
+
+</t>
+<t tx="leo.20181109062452.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109062452.2">## Week 6
+
+CADP2018  W6 :
+
+https://github.com/mdecourse/cadp2018/issues/10
+</t>
+<t tx="leo.20181109062454.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109062454.2">## Week 7
+
+CADP2018  W7:
+
+https://github.com/mdecourse/cadp2018/issues/11
+
+</t>
+<t tx="leo.20181109062458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109062458.2">## Week 8
+CADP2018  W8:
+
+https://github.com/mdecourse/cadp2018/issues/12</t>
 </tnodes>
 </leo_file>
