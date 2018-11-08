@@ -24,10 +24,12 @@
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16"><vh>W1</vh>
+<v t="leo.20180827201621.16" a="E"><vh>每周上課內容</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+</v>
+<v t="leo.20181109072732.1"><vh>W1</vh>
+<v t="leo.20181109072732.2"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18"><vh>W2</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
@@ -170,10 +172,6 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 每周上課內容
-
-
-</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -185,19 +183,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.17">## Week 1
-
-CADP2018  W1 :
-
-https://github.com/mdecourse/cadp2018/issues/3
-
-
-
-基本要帶的用具 : 筆記本、隨身碟、耳機。
-
-第一週講解本學期上課流程，以及同學需完成各自的作業，期中考週(含)前八週為拍攝Onshape影片，管理自己的網站、投影片以及部落格。期中考後為分組專案，需找其他五人組成六人小組。
-
-</t>
+<t tx="leo.20180827201621.17"># 每周上課內容</t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -428,6 +414,30 @@ CADP2018  W8:
 https://github.com/mdecourse/cadp2018/issues/12
 
 說明機電資整合設計專案流程所需的相關套件運用與技術.
+
+</t>
+<t tx="leo.20181109072732.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109072732.2">## Week 1
+
+CADP2018  W1 :
+
+https://github.com/mdecourse/cadp2018/issues/3
+
+
+
+基本要帶的用具 : 筆記本、隨身碟、耳機。
+
+第一週講解本學期上課流程，以及同學需完成各自的作業，期中考週(含)前八週為拍攝Onshape影片，管理自己的網站、投影片以及部落格。期中考後為分組專案，需找其他五人組成六人小組。
 
 </t>
 </tnodes>
