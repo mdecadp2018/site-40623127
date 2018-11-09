@@ -1,14 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623127/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623127/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623127/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623127/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623127/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623127/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623127/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>2018 CADP W8 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-8.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623127/blog/2018-Fall-Project-Blog-8.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;h2&gt;課程倉儲&lt;/h2&gt;
-&lt;p&gt;利用 Github 倉儲存放與計算機程式相關的資料, 有幾項好處:&lt;/p&gt;
-&lt;p&gt;第一, 在不自建網站的情況下, 目前 Github 仍允許免費使用, 管理者除了可以利用網際模式將資料送到對應的 &lt;a href="https://github.com/mdecourse/cp2018"&gt;cp github 倉儲&lt;/a&gt;外, 也可以利用近端的 git 客戶端程式, 以分散式版次的流程管理各階段的改版資料.&lt;/p&gt;
-&lt;p&gt;第二, Github 提供的 Github Pages, 可以讓純 html 加上 Javascript 的網站, 直接在 &lt;a href="https://mdecourse.github.io/cp2018/"&gt;cp 課程網站&lt;/a&gt;伺服.&lt;/p&gt;
-&lt;p&gt;第三, 改版後的 CMSimfly, 加上 Pelican 靜態網誌與 Reveal.js 投影片系統, 均為靜態網站資料, 可以直接整合一起, 透過一個網址當作上課參考資料.&lt;/p&gt;
-&lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
-&lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
-&lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;不知不覺這學期已經過了近一半，大二的課業壓力也比大一時重了許多，但老師，您用人類最崇高的感情－－愛，播種春天，播種理想，播種力量……用語言播種，用彩筆耕耘，用汗水澆灌，用心血滋潤，這就是我們敬愛的老師崇高的勞動。&lt;/p&gt;
+&lt;p&gt;參考網址 : http://big5.baiyunpiaopiao.com/html/fanwen/yulu/50386.shtml&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W7 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623127/blog/2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;接近期中考週了，該是時候把進度都完成，檢查網誌、網站及部落格。&lt;/p&gt;
+&lt;p&gt;參考網址 : http://big5.baiyunpiaopiao.com/html/fanwen/yulu/50386.shtml&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W6 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-6.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623127/blog/2018-Fall-Project-Blog-6.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;嚴教授，如果我們要踏上旅途，那老師就像我們手持的蠟燭，照亮我們在學習上那坎坷不平的路。您讓我們打開心靈的窗戶，您讓我們擁有精神的支柱，您送我們走上學習的道路，給予我們無窮的鼓舞。老師，我們將永遠把您記住。&lt;/p&gt;
+&lt;p&gt;參考網址 : http://big5.baiyunpiaopiao.com/html/fanwen/yulu/50386.shtml&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W5 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623127/blog/2018-Fall-Project-Blog-5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;本週上課期間大多為Onshape的繪製，開始使自己的操作能更為的流暢且減少失誤。&lt;/p&gt;
+&lt;p&gt;參考網址 : http://big5.baiyunpiaopiao.com/html/fanwen/yulu/50386.shtml&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W4 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623127/blog/2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;這週為Onshape課程的延伸，在有教學範本的輔助下使進步更為快速。&lt;/p&gt;
+&lt;p&gt;參考網址 : http://big5.baiyunpiaopiao.com/html/fanwen/yulu/50386.shtml&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W3 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623127/blog/2018-Fall-Project-Blog-3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;本週複習的Git的指令，才發現我還有許多可以進步的空間。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W2 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623127/blog/2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;這週開始Onshape的繪製，在使用上是沒什麼問題，不習慣的點只有跟Solidworks不同感到不習慣而已。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 CADP W1 心得</title><link href="https://mdecadp2018.github.io/site-40623127/blog/2018-Fall-Project-Blog-1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623127/blog/2018-Fall-Project-Blog-1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;第一週開始了，又是我們熟悉的嚴教授為我們授課，教授總是不厭其煩地指點、教導著我們，如果沒有您思想的滋潤，怎麼會綻開那麼多美好的靈魂之花啊。&lt;/p&gt;
+&lt;p&gt;參考網址 : 本週&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
