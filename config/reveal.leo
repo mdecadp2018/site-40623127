@@ -21,40 +21,23 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20181109073415.1" a="E"><vh>封面</vh>
+<v t="leo.20181109073415.1"><vh>封面</vh>
 <v t="leo.20181109073415.2"><vh>投影片封面</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.16"><vh>每周上課內容</vh>
+<v t="leo.20180827201621.13"><vh>Github 倉儲管理</vh>
+<v t="leo.20180827201621.16" a="E"><vh>Github 小組倉儲</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20181109072732.1"><vh>W1</vh>
-<v t="leo.20181109072732.2"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>W2</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109060841.1"><vh>W3</vh>
-<v t="leo.20181109060841.2"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109060935.1"><vh>W4</vh>
-<v t="leo.20181109060935.2"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109062449.1"><vh>W5</vh>
-<v t="leo.20181109062449.2"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109062452.1"><vh>W6</vh>
-<v t="leo.20181109062452.2"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109062454.1"><vh>W7</vh>
-<v t="leo.20181109062454.2"><vh>iframe 導入影片</vh></v>
-</v>
-<v t="leo.20181109062458.1"><vh>W8</vh>
-<v t="leo.20181109062458.2"><vh>iframe 導入影片</vh></v>
+<v t="leo.20190610003348.1"><vh>Onshape 協同操作</vh>
+<v t="leo.20190610003348.2"><vh>Onshape 繪製及組裝</vh>
+<v t="leo.20190610003348.3"><vh>引用程式碼</vh></v>
 </v>
 </v>
-<v t="leo.20181109061724.1"><vh>上課筆記</vh>
-<v t="leo.20181109061724.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20190610003351.1"><vh>V-rep 模擬</vh>
+<v t="leo.20190610003351.2"><vh>V-rep 模擬</vh>
+<v t="leo.20190610003351.3"><vh>引用程式碼</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -158,27 +141,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20180827201621.17"># 每周上課內容</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20180827201621.17"># Github 倉儲管理
 
+[小組倉儲推送歷程圖](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g3_1/graphs/contributors)
 
-						
-</t>
-<t tx="leo.20180827201621.19">## Week 2
-
-CADP2018  W2 :
-
-https://github.com/mdecourse/cadp2018/issues/5
-
-
-
-開始著手繪製Onshape，將用ShareX錄製之影片放置於個人網站，並將心得放置於投影片或部落格中。
-
-</t>
+[甲班期末協同報告倉儲推送歷程圖](https://github.com/40623128/cd2019a/graphs/contributors)</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -264,7 +231,7 @@ https://github.com/mdecourse/cadp2018/issues/5
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20181109060841.1">&lt;section data-markdown&gt;
+<t tx="leo.20181109073415.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -273,125 +240,24 @@ https://github.com/mdecourse/cadp2018/issues/5
 
 						
 </t>
-<t tx="leo.20181109060841.2">## Week 3
+<t tx="leo.20181109073415.2">## 2019協同產品設計實習
 
-CADP2018  W3 :
+### 虎科大機械設計工程系
 
-https://github.com/mdecourse/cadp2018/issues/7
+40623127 張育偉
+期末報告投影片
 
-檢查學習進度，是否有確實完成每周進度以及了解Git 的基本操作。
+[小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g3_1/content/%E7%B5%84%E5%93%A1.html)
 
+
+[小組倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g3_1)
 </t>
-<t tx="leo.20181109060935.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190610003348.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
 
-
-						
 </t>
-<t tx="leo.20181109060935.2">## Week 4
-
-CADP2018  W4 :
-
-https://github.com/mdecourse/cadp2018/issues/9
-
-Onshape課程說明。
-
-</t>
-<t tx="leo.20181109061724.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109061724.2"># 上課筆記
-
-https://mdecadp2018.github.io/site-40623127/images/44512359_384860928720531_1453638974185668608_n.jpg
-
-https://mdecadp2018.github.io/site-40623127/images/44668833_279809389203573_2038149002007937024_n.jpg
-
-https://mdecadp2018.github.io/site-40623127/images/44540171_333809013836926_4241134008408211456_n.jpg
-
-</t>
-<t tx="leo.20181109062449.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109062449.2">## Week 4
-
-CADP2018  W4 :
-
-https://github.com/mdecourse/cadp2018/issues/9
-
-Onshape課程說明。
-
-</t>
-<t tx="leo.20181109062452.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109062452.2">## Week 6
-
-CADP2018  W6 :
-
-https://github.com/mdecourse/cadp2018/issues/10
-
-說明如何利用 git remote add 在倉儲中, 以代號表示遠端倉儲連結
-
-</t>
-<t tx="leo.20181109062454.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109062454.2">## Week 7
-
-CADP2018  W7:
-
-https://github.com/mdecourse/cadp2018/issues/11
-
-說明如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料
-
-說明如何利用 Virtualbox 安裝 Ubuntu 18.04.1 伺服器, 目的在自行建立 Fossil SCM
-
-</t>
-<t tx="leo.20181109062458.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109062458.2">## Week 8
-CADP2018  W8:
-
-https://github.com/mdecourse/cadp2018/issues/12
-
-說明機電資整合設計專案流程所需的相關套件運用與技術.
-
-</t>
-<t tx="leo.20181109072732.1">&lt;section data-markdown&gt;
+<t tx="leo.20190610003348.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -402,41 +268,41 @@ https://github.com/mdecourse/cadp2018/issues/12
 
 						
 </t>
-<t tx="leo.20181109072732.2">## Week 1
+<t tx="leo.20190610003348.3"># Onshape 協同操作
 
-CADP2018  W1 :
+送球軌道的設計及繪製
 
-https://github.com/mdecourse/cadp2018/issues/3
+[送球軌道](https://cad.onshape.com/documents/7063242033d0934280d360d8/w/172d28e1bcc6647f37e823d3/e/09f93ed5107bb380078f0a91)
 
+[送球軌道BOM圖](https://cad.onshape.com/documents/7063242033d0934280d360d8/w/172d28e1bcc6647f37e823d3/e/1be1617606863c5314e4703f)
 
+送球機構及球桿足球員的組裝
 
-基本要帶的用具 : 筆記本、隨身碟、耳機。
-
-第一週講解本學期上課流程，以及同學需完成各自的作業，期中考週(含)前八週為拍攝Onshape影片，管理自己的網站、投影片以及部落格。期中考後為分組專案，需找其他五人組成六人小組。
+[組裝圖](https://cad.onshape.com/documents/7063242033d0934280d360d8/w/172d28e1bcc6647f37e823d3/e/11b0d24946f9df970779a0ca)</t>
+<t tx="leo.20190610003351.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
 </t>
-<t tx="leo.20181109073415.1">&lt;section data-markdown&gt;
+<t tx="leo.20190610003351.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20181109073415.2">## 2018電腦輔助設計實習
+<t tx="leo.20190610003351.3"># V-rep 模擬
 
-### 虎科大機械設計工程系
 
-40623127 投影片
 
-2018 Fall 計算機程式與電腦輔助設計實習課程
+[簡化影片1](https://www.youtube.com/watch?v=e0bdssMgO6A)
 
-[網站](https://mdecadp2018.github.io/site-40623127/content/index.html)
+[簡化影片2](https://www.youtube.com/watch?v=wujrUlncvg4)
 
-[簡報](https://mdecadp2018.github.io/site-40623127/reveal/index.html#/)
-
-[網誌](https://mdecadp2018.github.io/site-40623127/blog/index.html)
-</t>
+[簡易模擬](https://www.youtube.com/watch?v=k7KeAABYSK4)</t>
 </tnodes>
 </leo_file>
