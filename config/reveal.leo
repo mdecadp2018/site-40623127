@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20181109073415.1"><vh>封面</vh>
+<v t="leo.20181109073415.1" a="E"><vh>封面</vh>
 <v t="leo.20181109073415.2"><vh>投影片封面</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>Github 倉儲管理</vh>
@@ -37,6 +37,11 @@
 <v t="leo.20190610003351.1"><vh>V-rep 模擬</vh>
 <v t="leo.20190610003351.2"><vh>V-rep 模擬</vh>
 <v t="leo.20190610003351.3"><vh>引用程式碼</vh></v>
+</v>
+</v>
+<v t="leo.20190610004802.1" a="E"><vh>自評</vh>
+<v t="leo.20190610004802.2" a="E"><vh>自評</vh>
+<v t="leo.20190610004802.3"><vh>引用程式碼</vh></v>
 </v>
 </v>
 </v>
@@ -145,7 +150,9 @@ vertical: body pane on the botton</t>
 
 [小組倉儲推送歷程圖](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g3_1/graphs/contributors)
 
-[甲班期末協同報告倉儲推送歷程圖](https://github.com/40623128/cd2019a/graphs/contributors)</t>
+[甲班期末協同報告倉儲推送歷程圖](https://github.com/40623128/cd2019a/graphs/contributors)
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -278,7 +285,9 @@ vertical: body pane on the botton</t>
 
 送球機構及球桿足球員的組裝
 
-[組裝圖](https://cad.onshape.com/documents/7063242033d0934280d360d8/w/172d28e1bcc6647f37e823d3/e/11b0d24946f9df970779a0ca)</t>
+[組裝圖](https://cad.onshape.com/documents/7063242033d0934280d360d8/w/172d28e1bcc6647f37e823d3/e/11b0d24946f9df970779a0ca)
+
+</t>
 <t tx="leo.20190610003351.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -303,6 +312,41 @@ vertical: body pane on the botton</t>
 
 [簡化影片2](https://www.youtube.com/watch?v=wujrUlncvg4)
 
-[簡易模擬](https://www.youtube.com/watch?v=k7KeAABYSK4)</t>
+[簡易模擬](https://www.youtube.com/watch?v=k7KeAABYSK4)
+
+</t>
+<t tx="leo.20190610004802.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190610004802.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190610004802.3">###評分比例:
+
+    學員出席 (20/20)
+
+    Github 倉儲管理  (20/20)
+
+    Onshape 協同操作 (15/20)
+
+    V-rep 模擬 (10/20)
+
+    程式開發 (0/20)
+    
+    自評 : 65
+
+
+
+</t>
 </tnodes>
 </leo_file>
